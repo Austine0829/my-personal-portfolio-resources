@@ -34,7 +34,7 @@
     {
         "name": "Overload Gig Store",
         "year": "2025",
-        "description": "A simple storefront web application, built using Vanilla CSS for design, Vanilla JS for interactivity, and deployed via Netlify. Overload Gig Store was created to showcase the merchandise of each October Praise that happens every year at First United Methodist, Bancal, Guagua, Pampanga.",
+        "description": "A simple virtual storefront web application, built using Vanilla CSS for design, Vanilla JS for interactivity, and deployed via Netlify. Overload Gig Store was created to showcase the merchandise of each October Praise that happens every year at First United Methodist, Bancal, Guagua, Pampanga.",
         "technologies": [
             "HTML",
             "CSS",
