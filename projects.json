@@ -10,7 +10,7 @@
             "GitHub Pages",
             "Vite"
         ],
-        "imgPath": "./assets/projects/portfolio.png",
+        "imgPath": "public/projects/portfolio.png",
         "url": ""
     },
     {
@@ -28,7 +28,7 @@
             "EF Core",
             "Render"
         ],
-        "imgPath": "./assets/projects/fumimori.png",
+        "imgPath": "/public/projects/fumimori.png",
         "url": "https://fumimori.onrender.com"
     },
     {
@@ -41,7 +41,7 @@
             "JavaScript",
             "Netlify"
         ],
-        "imgPath": "./src/assets/projects/overload.png",
+        "imgPath": "./public/projects/overload.png",
         "url": "https://overloadgigshop.netlify.app/pages/home.html"
     },
     {
@@ -54,7 +54,7 @@
             "MySQL",
             "PDFsharp"
         ],
-        "imgPath": "./src/assets/projects/bmis.png",
+        "imgPath": "/public/assets/projects/bmis.png",
         "url": ""
     },
     {
@@ -66,7 +66,7 @@
             "C#",
             "MySQL"
         ],
-        "imgPath": "./src/assets/projects/ems.png",
+        "imgPath": "/public/projects/ems.png",
         "url": ""
     }
 ]
