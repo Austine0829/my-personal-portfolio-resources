@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Github",
+        "logo": "github"
+    },
+    {
+        "name": "Git",
+        "logo": "git"
+    },
+    {
+        "name": "CSharp",
+        "logo": "csharp"
+    },
+    {
+        "name": "Javascript",
+        "logo": "javascript"
+    },
+    {
+        "name": "HTML",
+        "logo": "html5"
+    },
+    {
+        "name": "CSS",
+        "logo": "css3"
+    },
+    {
+        "name": "React",
+        "logo": "react"
+    },
+    {
+        "name": "Bootstrap",
+        "logo": "bootstrap"
+    },
+    {
+        "name": "Tailwind",
+        "logo": "tailwindcss"
+    },
+    {
+        "name": "ASP .NET",
+        "logo": "dotnet"
+    },
+    {
+        "name": "MYSql",
+        "logo": "mysql"
+    },
+    {
+        "name": "Postgresql",
+        "logo": "postgresql"
+    },
+    {
+        "name": "Winforms",
+        "logo": "dotnet"
+    },
+    {
+        "name": "MS Server",
+        "logo": ""
+    },
+    {
+        "name": "Render",
+        "logo": ""
+    },
+    {
+        "name": "Netlify",
+        "logo": "netlify"
+    },
+    {
+        "name": "Figma",
+        "logo": "figma"
+    },
+    {
+        "name": "Postman",
+        "logo": "postman"
+    },
+    {
+        "name": "Swagger",
+        "logo": "swagger"
+    },
+    {
+        "name": "Canva",
+        "logo": "canva"
+    },
+    {
+        "name": "Vite",
+        "logo": "vite"
+    }
+]
