@@ -10,7 +10,7 @@
             "GitHub Pages",
             "Vite"
         ],
-        "imgPath": "./src/assets/projects/portfolio.png",
+        "imgPath": "./assets/projects/portfolio.png",
         "url": ""
     },
     {
@@ -28,7 +28,7 @@
             "EF Core",
             "Render"
         ],
-        "imgPath": "./src/assets/projects/fumimori.png",
+        "imgPath": "./assets/projects/fumimori.png",
         "url": "https://fumimori.onrender.com"
     },
     {
