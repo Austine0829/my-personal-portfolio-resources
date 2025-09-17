@@ -28,7 +28,7 @@
             "EF Core",
             "Render"
         ],
-        "imgPath": "/public/projects/fumimori.png",
+        "imgPath": "/projects/fumimori.png",
         "url": "https://fumimori.onrender.com"
     },
     {
@@ -41,7 +41,7 @@
             "JavaScript",
             "Netlify"
         ],
-        "imgPath": "./public/projects/overload.png",
+        "imgPath": "/projects/overload.png",
         "url": "https://overloadgigshop.netlify.app/pages/home.html"
     },
     {
@@ -54,7 +54,7 @@
             "MySQL",
             "PDFsharp"
         ],
-        "imgPath": "/public/projects/bmis.png",
+        "imgPath": "/projects/bmis.png",
         "url": ""
     },
     {
@@ -66,7 +66,7 @@
             "C#",
             "MySQL"
         ],
-        "imgPath": "/public/projects/ems.png",
+        "imgPath": "/projects/ems.png",
         "url": ""
     }
 ]
