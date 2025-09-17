@@ -82,5 +82,9 @@
     {
         "name": "Vite",
         "logo": "vite"
+    },
+     {
+        "name": "EF Core",
+        "logo": "dotnet"
     }
 ]
