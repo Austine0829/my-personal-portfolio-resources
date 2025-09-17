@@ -58,7 +58,7 @@
         "imgPath": "/projects/bmis.png",
         "url": ""
     },
-    {
+     {
         "name": "Enrollment Management System",
         "year": "2024",
         "description": "My first-ever project, developed during my 1st year in college, focused on automating the student enrollment process. It streamlined key tasks such as enrolling students, assigning teachers, and tracking student balances. Through this project, I gained valuable experience in writing database queries, applying Object-Oriented Programming, and implementing business rules within a system.",
