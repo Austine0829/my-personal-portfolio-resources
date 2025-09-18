@@ -1,4 +1,4 @@
-[
+ [
     {
         "name": "Github",
         "logo": "github"
@@ -12,7 +12,7 @@
         "logo": "csharp"
     },
     {
-        "name": "Javascript",
+        "name": "JavaScript",
         "logo": "javascript"
     },
     {
@@ -32,7 +32,7 @@
         "logo": "bootstrap"
     },
     {
-        "name": "Tailwind",
+        "name": "Tailwindcss",
         "logo": "tailwindcss"
     },
     {
@@ -40,7 +40,7 @@
         "logo": "dotnet"
     },
     {
-        "name": "MYSql",
+        "name": "MySQL",
         "logo": "mysql"
     },
     {
@@ -83,7 +83,7 @@
         "name": "Vite",
         "logo": "vite"
     },
-     {
+    {
         "name": "EF Core",
         "logo": "dotnet"
     }
