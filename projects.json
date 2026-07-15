@@ -20,8 +20,8 @@
            "Jupyter" 
         ],
         "imgPath": "/projects/xvibe.png",
-        "url": "",
-        "repoUrl": "",
+        "url": "https://github.com/Austine0829/xvibe-offline-mp3-player/releases/tag/v1.0.1",
+        "repoUrl": "https://github.com/Austine0829/xvibe-offline-mp3-player",
         "category": "mobile"
       },
       {
@@ -41,7 +41,7 @@
         ],
         "imgPath": "/projects/vibe_classification.png",
         "url": "",
-        "repoUrl": "",
+        "repoUrl": "https://github.com/Austine0829/music-vibes-classification",
         "category": "model"
      },
      {
@@ -60,7 +60,7 @@
         ],
         "imgPath": "/projects/genre_classification.png",
         "url": "",
-        "repoUrl": "",
+        "repoUrl": "https://github.com/Austine0829/10-class-genre-classification-model",
         "category": "model"
     },
     {
@@ -77,7 +77,7 @@
         ],
         "imgPath": "/projects/portfolio.png",
         "url": "",
-        "repoUrl": "",
+        "repoUrl": "https://github.com/Austine0829/my-personal-portfolio",
         "category": "website"
     },
     {
@@ -112,7 +112,7 @@
         ],
         "imgPath": "/projects/overload.png",
         "url": "https://overloadgigstore.netlify.app/pages/home.html",
-        "repoUrl": "",
+        "repoUrl": "https://github.com/Austine0829/overload",
         "category": "website"
     },
     {
