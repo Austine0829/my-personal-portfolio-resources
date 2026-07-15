@@ -21,7 +21,8 @@
         ],
         "imgPath": "/projects/xvibe.png",
         "url": "",
-        "repoUrl": ""
+        "repoUrl": "",
+        "category": "mobile"
       },
       {
         "name": "Music Vibe Classification Model for Xvibe",
@@ -40,7 +41,8 @@
         ],
         "imgPath": "/projects/vibe_classification.png",
         "url": "",
-        "repoUrl": ""
+        "repoUrl": "",
+        "category": "model"
      },
      {
         "name": "Genre Classification Model using Dense Neural Network",
@@ -58,7 +60,8 @@
         ],
         "imgPath": "/projects/genre_classification.png",
         "url": "",
-        "repoUrl": ""
+        "repoUrl": "",
+        "category": "model"
     },
     {
         "name": "Portfolio",
@@ -74,7 +77,8 @@
         ],
         "imgPath": "/projects/portfolio.png",
         "url": "",
-        "repoUrl": ""
+        "repoUrl": "",
+        "category": "website"
     },
     {
         "name": "Fumimori",
@@ -93,7 +97,8 @@
         ],
         "imgPath": "/projects/fumimori.png",
         "url": "https://fumimori.onrender.com",
-        "repoUrl": ""
+        "repoUrl": "",
+        "category": "website"
     },
     {
         "name": "Overload Gig Store",
@@ -107,7 +112,8 @@
         ],
         "imgPath": "/projects/overload.png",
         "url": "https://overloadgigstore.netlify.app/pages/home.html",
-        "repoUrl": ""
+        "repoUrl": "",
+        "category": "website"
     },
     {
         "name": "Barangay Management and Information System",
@@ -121,7 +127,8 @@
         ],
         "imgPath": "/projects/bmis.png",
         "url": "",
-        "repoUrl": ""
+        "repoUrl": "",
+        "category": "desktop"
     },
      {
         "name": "Enrollment Management System",
@@ -134,6 +141,7 @@
         ],
         "imgPath": "/projects/ems.png",
         "url": "",
-        "repoUrl": ""
+        "repoUrl": "",
+        "category": "desktop"
     }
 ]
