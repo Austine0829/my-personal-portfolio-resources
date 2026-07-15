@@ -1,4 +1,65 @@
 [
+      {
+        "name": "Xvibe",
+        "year": "2026",
+        "description": "Xvibe is an Offline MP3 Player embedded with a dense neural network classifier that classifies songs into vibes and is later used by Xvibe to organize, randomly recommend a list of songs, and track how your songs are distributed into categories, which are acoustic, chaotic, road trip, energetic, and chill. ",
+        "technologies": [
+           "TensorFlow Keras", 
+           "Pandas", 
+           "Scikit-Learn", 
+           "Python",  
+           "Librosa",
+           "TFLite",
+           "YAMNet",
+           "NumPy", 
+           "Dart", 
+           "Flutter", 
+           "SQLite", 
+           "Hive", 
+           "Provider",
+           "Jupyter" 
+        ],
+        "imgPath": "/projects/xvibe.png",
+        "url": "",
+        "repoUrl": ""
+      },
+      {
+        "name": "Music Vibe Classification Model for Xvibe",
+        "year": "2026",
+        "description": "This model is integrated into my project, called Xvibe. It classifies songs into the following categories: Acoustic (Acoustic), Chaotic (Rock, Metal), Road Trip (Hip-Hop, Reggae, R&B), Energetic (Country, Disco, Pop), and Chill (Blues, Jazz). The model achieved approximately 80% classification accuracy. However, its accuracy is slightly lower in the application because inference is performed entirely offline, requiring optimizations to accommodate device hardware constraints.",
+        "technologies": [
+           "Python",  
+           "Librosa",
+           "TFLite",
+           "TensorFlow Keras", 
+           "YAMNet",
+           "NumPy", 
+           "Pandas", 
+           "Scikit-Learn", 
+           "Jupyter"
+        ],
+        "imgPath": "/projects/vibe_classification.png",
+        "url": "",
+        "repoUrl": ""
+     },
+     {
+        "name": "Genre Classification Model using Dense Neural Network",
+        "year": "2026",
+        "description": "My first ever model that I trained and built using TensorFlow, supervised learning, transfer learning using the YAMNet model from Google for embeddings, and the GTZAN Dataset. The Model classifies 10 genres among these genres: blues, classical, country, disco, hip-hop, jazz, metal, pop, reggae, and rock, with an accuracy of 75% on each classification.",
+        "technologies": [
+           "Python", 
+           "TensorFlow Keras", 
+           "YAMNet", 
+           "NumPy", 
+           "Pandas", 
+           "Scikit-Learn", 
+           "Librosa",
+           "Jupyter"
+        ],
+        "imgPath": "/projects/genre_classification.png",
+        "url": "",
+        "repoUrl": ""
+    },
     {
         "name": "Portfolio",
         "year": "2025",
@@ -12,7 +73,8 @@
             "Netlify"
         ],
         "imgPath": "/projects/portfolio.png",
-        "url": ""
+        "url": "",
+        "repoUrl": ""
     },
     {
         "name": "Fumimori",
@@ -30,7 +92,8 @@
             "Render"
         ],
         "imgPath": "/projects/fumimori.png",
-        "url": "https://fumimori.onrender.com"
+        "url": "https://fumimori.onrender.com",
+        "repoUrl": ""
     },
     {
         "name": "Overload Gig Store",
@@ -43,7 +106,8 @@
             "Netlify"
         ],
         "imgPath": "/projects/overload.png",
-        "url": "https://overloadgigstore.netlify.app/pages/home.html"
+        "url": "https://overloadgigstore.netlify.app/pages/home.html",
+        "repoUrl": ""
     },
     {
         "name": "Barangay Management and Information System",
@@ -56,7 +120,8 @@
             "PDFsharp"
         ],
         "imgPath": "/projects/bmis.png",
-        "url": ""
+        "url": "",
+        "repoUrl": ""
     },
      {
         "name": "Enrollment Management System",
@@ -68,6 +133,7 @@
             "MySQL"
         ],
         "imgPath": "/projects/ems.png",
-        "url": ""
+        "url": "",
+        "repoUrl": ""
     }
 ]
